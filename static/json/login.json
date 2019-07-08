@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "meta": {
+    "data": {
+      "state": true,
+      "token": "20190101"
+    }
+  }
+}
